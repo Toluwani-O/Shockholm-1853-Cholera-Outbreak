@@ -1,4 +1,4 @@
-# 1853 Skockholm Cholera outbraek
+# 1853 Stockholm Cholera outbreak
 This is part of research work on the history of Stockholm in the 19th century. Since Sweden has well-preserved church archives this permits getting detailed information about e.g. pandemic events
 
 # Introduction
